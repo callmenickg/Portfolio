@@ -1,60 +1,60 @@
-const logotext = "JOHN";
+const logotext = "Nick G";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Nick Garza | Full Stack Web Developer",
+    description: "I’m Nick Garza, Lead Full Stack Web Developer",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Nick Garza",
     animated: {
-        first: "I love coding",
+        first: "I am a Full Stack Web Developer",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I look forward to hearing from you!"
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A little about myself",
+    aboutme: "Experienced Web Developer with a diverse background in full-stack development, specializing in WordPress, Ruby on Rails, and Laravel applications. Adept at creating custom plugins, developing APIs, and optimizing websites for SEO. Proficient in modern front-end technologies, including Bootstrap, JavaScript, and React.js, with a focus on building responsive, user-friendly interfaces. Skilled in managing server configurations on platforms like AWS EC2 and S3, and experienced in DNS management and SSL certificates. Strong expertise in integrating third-party services such as HubSpot and Basecamp into web applications to streamline business operations. Proven track record of leading website migrations, developing marketing tools, and delivering tailored solutions for both client-facing and internal projects. Passionate about enhancing web performance and usability while ensuring secure and scalable deployments.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Lead Web Developer",
+        where: "MFG Tribe",
+        date: "11/23 - Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Central Grader - Full Stack Development",
+        where: "2U",
+        date: "04/2023 - 01/2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Jr. Software Developer",
+        where: "Invoice Home",
+        date: "10/2022 - 01/2023",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "HTML | CSS",
+        value: 100,
+    },
+    {
+        name: "Wordpress",
+        value: 100,
+    },
+    {
+        name: "Javascript | React",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "PHP | Laravel ",
         value: 80,
     },
     {
-        name: "React",
+        name: "Ruby | Ruby on Rails",
         value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
     },
 ];
 
