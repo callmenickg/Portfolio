@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I look forward to hearing from you!"
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Welcome! I'm Nick, a Web Developer with a knack for creating high-impact digital solutions. With expertise in WordPress, Laravel, and Vue.js, I build seamless, interactive experiences—whether it’s a custom plugin, a sleek landing page, or robust back-end functionality. My journey has taken me through server migrations, DNS configurations, and developing custom tools to enhance productivity. I’m passionate about pushing the boundaries of what web development can do, with a focus on performance, user experience, and reliable infrastructure.",
     your_img_url: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730343282/IMG_2060_in40rm.jpg",
 };
 
