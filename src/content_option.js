@@ -12,7 +12,7 @@ const introdata = {
         third: "I look forward to hearing from you!"
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730343282/IMG_2060_in40rm.jpg",
 };
 
 const dataabout = {
@@ -97,72 +97,57 @@ const services = [ {
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730341367/Screenshot_2024-10-30_at_9.15.21_PM_onjjws.png",
+        description: "Invoice Home | Ruby on Rails",
+        link: "https://invoicehome.com/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730341738/Screenshot_2024-10-30_at_9.28.25_PM_xiyamp.png",
+        description: "Sunbright Recycling | WordPress & Elementor",
+        link: "http://sunbrightrecycling.com",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730341944/Screenshot_2024-10-30_at_9.32.01_PM_i7gz8e.png",
+        description: "Evergreen Recyling | WordPress & Elementor",
+        link: "https://github.com/thenickgarza/Browser-Landing-Page?tab=readme-ov-file",
+    },
+    {
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730342210/Screenshot_2024-10-30_at_9.36.22_PM_e1k6qc.png",
+        description: "MyToDo | Ruby On Rails",
+        link: "https://mytodo.com/",
+    },
+    {
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730342394/Screenshot_2024-10-30_at_9.39.22_PM_y7t98z.png",
+        description: "Custom Web Dashboard | Vanilla JS ",
+        link: "https://github.com/thenickgarza/Browser-Landing-Page?tab=readme-ov-file",
+    },
+    {
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730342530/Screenshot_2024-10-30_at_9.41.36_PM_qu3vko.png",
+        description: "Weather Forecast Application | Vanilla JS",
+        link: "https://thenickgarza.github.io/Weather-Dashboard/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Coming Soon",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730342854/Screenshot_2024-10-30_at_9.47.08_PM_gqpjmg.png",
+        description: "MFG Tribe | Wordpress & Avada",
+        link: "https://mfgtribe.com",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Coming Soon",
         link: "#",
     },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "thenickgarza14@gmail.com",
+    YOUR_FONE: "(808)631-7708",
+    description: "I look forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -171,9 +156,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/thenickgarza",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://linkedin.comhttps://www.linkedin.com/in/nicholas-garza-2a2a44223/",
     twitter: "https://twitter.com",
 };
 export {
