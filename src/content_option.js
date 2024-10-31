@@ -58,18 +58,42 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const services = [ {
+    "title": "Web Development",
+    "description": "Full-stack web development services specializing in custom websites, web applications, and CMS-based sites using technologies like WordPress, Laravel, and Ruby on Rails."
+  },
+  {
+    "title": "SEO Optimization",
+    "description": "Comprehensive SEO services including on-page and technical optimization, keyword research, and SEMrush-based strategy planning to enhance search engine visibility."
+  },
+  {
+    "title": "Content Management & Marketing",
+    "description": "Content creation, marketing strategy, and custom HubSpot integrations for campaigns, lead capture forms, and analytics tracking."
+  },
+  {
+    "title": "Cloud Services & Server Management",
+    "description": "Setup and management of cloud infrastructure, including EC2 and S3 on AWS, SSL certificates, DNS configurations, and Dockerized applications."
+  },
+  {
+    "title": "JavaScript Development",
+    "description": "Custom JavaScript solutions, including frontend frameworks like Vue.js and Next.js, for dynamic, interactive experiences and application logic."
+  },
+  {
+    "title": "API Integration",
+    "description": "Custom API development and integration, including RESTful endpoints, third-party API integrations, and data synchronization between platforms."
+  },
+  {
+    "title": "Custom Plugin Development",
+    "description": "Development of custom plugins and themes for WordPress tailored to client needs, with features like file handling, user restrictions, and custom blocks using ACF."
+  },
+  {
+    "title": "Technical SEO & Webmaster Services",
+    "description": "Technical SEO improvements, server migration, DNS management, SPF, DKIM, and domain setup for optimized search engine performance and email deliverability."
+  },
+  {
+    "title": "Automation & Productivity Tools",
+    "description": "Automation of tasks and workflows using JavaScript and integrations with platforms like Basecamp for efficient project and task management."
+  },
 ];
 
 const dataportfolio = [{
