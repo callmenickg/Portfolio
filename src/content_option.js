@@ -104,12 +104,12 @@ const dataportfolio = [{
     {
         img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730341738/Screenshot_2024-10-30_at_9.28.25_PM_xiyamp.png",
         description: "Sunbright Recycling | WordPress & Elementor",
-        link: "http://sunbrightrecycling.com",
+        link: "https://sunbrightrecycling.com",
     },
     {
         img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730341944/Screenshot_2024-10-30_at_9.32.01_PM_i7gz8e.png",
         description: "Evergreen Recyling | WordPress & Elementor",
-        link: "https://github.com/thenickgarza/Browser-Landing-Page?tab=readme-ov-file",
+        link: "https://evergreen-recycling.com/home-2024/",
     },
     {
         img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730342210/Screenshot_2024-10-30_at_9.36.22_PM_e1k6qc.png",
