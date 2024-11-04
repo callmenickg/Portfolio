@@ -122,6 +122,11 @@ const dataportfolio = [{
         link: "https://github.com/thenickgarza/Browser-Landing-Page?tab=readme-ov-file",
     },
     {
+        img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730758790/Screenshot_2024-11-04_at_4.18.51_PM_ycy2sb.png",
+        description: "Eagle PI | WordPress",
+        link: "https://www.eaglepi.com/",
+    },
+    {
         img: "https://res.cloudinary.com/dv5u0t34b/image/upload/v1730342530/Screenshot_2024-10-30_at_9.41.36_PM_qu3vko.png",
         description: "Weather Forecast Application | Vanilla JS",
         link: "https://thenickgarza.github.io/Weather-Dashboard/",
